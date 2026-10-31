@@ -10,6 +10,18 @@ I build practical systems that convert external obligations into controlled data
 
 **Career direction:** Industry R&D, systems engineering, and consulting.
 
+### Explore my GitHub city
+
+[![My GitHub city on Caldera](https://caldera.social/gh/jvholmes87/badge.svg?style=card)](https://caldera.social/gh/jvholmes87)
+
+[Explore the interactive GitHub city](https://caldera.social/gh/jvholmes87) — a visual overview of my public repositories. Caldera's counts are independently generated and may differ from GitHub's full contribution history.
+
+### Portfolio areas
+
+- **Systems engineering and compliance:** [Federal Submittal Compliance Model](https://github.com/jvholmes87/federal-submittal-compliance-model), [Treasury Platform Case Study](https://github.com/jvholmes87/treasury-platform-casestudy), and [ORB Readiness Research](https://github.com/jvholmes87/orb-readiness-research).
+- **Autonomy and physical prototypes:** [PISO-AID | Bob 1](https://github.com/jvholmes87/piso-aid-bob1).
+- **Simulation and immersive systems:** [HolmesNet Expedition](https://github.com/jvholmes87/holmesnet-expedition), [Freeman’s Reach Systems Lab](https://github.com/jvholmes87/freemans-reach-systems-lab), and [KSP Surge Drive](https://github.com/jvholmes87/ksp-surge-drive).
+
 ### Public projects
 
 - [Federal Submittal Compliance Model](https://github.com/jvholmes87/federal-submittal-compliance-model) — requirements traceability, lifecycle-state modeling, and acquisition-interface latency in federal construction compliance.
