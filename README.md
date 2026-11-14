@@ -1,36 +1,34 @@
-## Jason V. Holmes
+# Jason V. Holmes
 
-Systems engineer and applied researcher focused on requirements engineering, obligation traceability, lifecycle-state modeling, federal acquisition, and compliance systems for small organizations.
+Systems engineering practitioner, software developer and independent researcher based in South Korea. I bring 15 years of U.S. Air Force Civil Engineering experience to construction management, small-business operations and software development.
 
-I build practical systems that convert external obligations into controlled data: requirements, states, deadlines, evidence, dependencies, and audit trails.
+I build systems that connect requirements, workflows, data and evidence: construction project tools, financial applications, simulation and creative production.
 
-**Current research:** A deployed federal-construction compliance instrument using an approximately 60-gate work breakdown structure, an 11-state submittal lifecycle, a deadline engine, and review-aging controls. As of 11 September 2026, first-pass submittal approval was **69% by line item (20/29)** and **47% by package (8/17)**. The dashboard's **85%** figure is a current-state gate approval share, not a first-pass rate. The next research gate is a focused literature review before further taxonomy or doctoral-scope claims.
+## Active work
 
-**Studying:** Master of Science in Information Technology, Systems Engineering concentration, University of Maryland Global Campus. Program begins 16 September 2026.
+| Project | Focus | Current stage |
+|---|---|---|
+| [Forkline](https://playforkline.com/) · [repository](https://github.com/jvholmes87/forkline-play) | Science-fiction space trading for phone and desktop browsers | Live beta/playtest; preview builds are separate |
+| [Gyeoldesk](https://gyeoldesk.com/) · [repository](https://github.com/jvholmes87/gyeoldesk-site) | Bilingual construction project desk and company workspaces | Live website with a [fictional-data demo](https://gyeoldesk.com/demo/) |
+| [Professional portfolio](https://jvholmes87.github.io/) · [repository](https://github.com/jvholmes87/jvholmes87.github.io) | Software, systems-engineering work and applied research | Published website |
+| [Orvaya Studio](https://orvayastudio.com/) · [repository](https://github.com/jvholmes87/orvaya-public) | Independent AI-assisted science-fiction anthology development | Website published; films in preproduction |
 
-**Career direction:** Industry R&D, systems engineering, and consulting.
+## Research and development
 
-### Explore my GitHub city
+- [Federal Submittal Compliance Model](https://github.com/jvholmes87/federal-submittal-compliance-model): sanitized requirements-traceability and lifecycle research, with dated preliminary observations and explicit measurement definitions.
+- [ORB Readiness Research](https://github.com/jvholmes87/orb-readiness-research): research design examining supplier readiness and documentation burden; no fieldwork results claimed.
+- [PISO-AID / Bob 1](https://github.com/jvholmes87/piso-aid-bob1): small-USV design and supervised-autonomy research; design development and prototype planning.
+- [FamilyLedger](https://github.com/jvholmes87/familyledger): household and small-business finance, starting from the collaborative SpendWise capstone baseline.
+- [Homeschool Operating System](https://github.com/jvholmes87/homeschool-operating-system): operations case study, document generation and spreadsheet automation with synthetic examples.
+- [HolmesNet Expedition](https://github.com/jvholmes87/holmesnet-expedition): independent fan campaign and interactive systems companion.
+- [Freeman’s Reach public explorer](https://jvholmes87.github.io/freemans-reach-systems-lab/): a cleared, non-canon presentation of the universe-development project. The source repository remains private.
 
-[![My GitHub city on Caldera](https://caldera.social/gh/jvholmes87/badge.svg?style=card)](https://caldera.social/gh/jvholmes87)
+## Background and collaboration
 
-[Explore the interactive GitHub city](https://caldera.social/gh/jvholmes87) — a visual overview of my public repositories. Caldera's counts are independently generated and may differ from GitHub's full contribution history.
+- Associate of Applied Science in Construction Technology, Community College of the Air Force.
+- Bachelor of Science in Computer Science, University of Maryland Global Campus.
+- Currently pursuing a Master of Science in Information Technology with a Systems Engineering concentration at UMGC.
 
-### Portfolio areas
+My work connects construction operations, systems engineering, software and applied research. Interested in practical tools for small organizations, software development and R&D.
 
-- **Systems engineering and compliance:** [Federal Submittal Compliance Model](https://github.com/jvholmes87/federal-submittal-compliance-model), [Treasury Platform Case Study](https://github.com/jvholmes87/treasury-platform-casestudy), and [ORB Readiness Research](https://github.com/jvholmes87/orb-readiness-research).
-- **Autonomy and physical prototypes:** [PISO-AID | Bob 1](https://github.com/jvholmes87/piso-aid-bob1).
-- **Simulation and immersive systems:** [HolmesNet Expedition](https://github.com/jvholmes87/holmesnet-expedition), [Freeman’s Reach Systems Lab](https://github.com/jvholmes87/freemans-reach-systems-lab), and [KSP Surge Drive](https://github.com/jvholmes87/ksp-surge-drive).
-
-### Public projects
-
-- [Federal Submittal Compliance Model](https://github.com/jvholmes87/federal-submittal-compliance-model) — requirements traceability, lifecycle-state modeling, and acquisition-interface latency in federal construction compliance.
-- [ORB Readiness Research](https://github.com/jvholmes87/orb-readiness-research) — supplier-readiness and qualification-burden research for aerospace and advanced-manufacturing supply chains.
-- [Freeman’s Reach Systems Lab](https://github.com/jvholmes87/freemans-reach-systems-lab) — systems-engineering methods applied to a technically controlled hard-science-fiction universe.
-- [PISO-AID | Bob 1](https://github.com/jvholmes87/piso-aid-bob1) — semi-autonomous marine research prototype and systems-integration project.
-- [Treasury Platform Case Study](https://github.com/jvholmes87/treasury-platform-casestudy) — obligations enforced as database invariants with end-to-end requirements traceability.
-
-`requirements engineering` · `obligation traceability` · `federal acquisition` · `compliance systems` · `systems engineering` · `federal construction` · `small business systems` · `applied research`
-
-ORCID [0009-0007-2898-8478](https://orcid.org/0009-0007-2898-8478)  
-USAF Civil Engineering Veteran — 14 years
+[ORCID: 0009-0007-2898-8478](https://orcid.org/0009-0007-2898-8478) · [GitHub city](https://caldera.social/gh/jvholmes87)
